@@ -1,1 +1,1 @@
-This repository compromises the backend code for an exercise tracker I designed in CS290: Web Development. For the frontend code, see this link: https://github.com/mayacdsouza/Exercise-Tracker-Frontend
+This repository compromises the backend code for an exercise tracker I designed in CS290: Web Development. For the frontend code and more information on this project, see this link: https://github.com/mayacdsouza/Exercise-Tracker-Frontend
